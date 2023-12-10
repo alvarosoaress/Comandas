@@ -3,7 +3,6 @@
 
 `Analise e Desenvolvimento de Sistemas`
 
-
 `Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
 `Eixo 3 - 2023/2`
@@ -18,7 +17,7 @@ Resolvendo problemas como demora no atendimento, erros em cardápios físicos, e
 * André Azevedo Ferreira Carvalho
 * Carlos Eduardo Reinis
 * Florisvaldo Alves Moreira Neto
-* Breno Morais Goncalves
+* Breno Morais Gonçalves
 * Vitor Silva Oliveira
 
 ## Orientador
@@ -54,3 +53,13 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+<!--
+Comandas
+3
+https://github.com/alvarosoaress/Comandas/blob/main/docs/12-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md
+JavaScript;ReactNative;Android;iOS
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t2-g3-comandas/assets/13721147/ee0b596b-c6fc-4145-abc9-b90293377a6c
+Solução mobile que visa simplificar e aprimorar experiência em estabelecimentos alimentícios, oferecendo como principal função a possibilidade de cardápio virtual e gerenciamento de espaço via dispositivo móvel. Com aplicativos únicos tanto para clientes quanto para estabelecimentos, com integração dos dois via API externa.
+available
+-->
