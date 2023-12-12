@@ -5,7 +5,7 @@
  </blockquote>
 
 <div align="center">
-    <image src="https://github.com/alvarosoaress/Comandas/assets/13721147/51de685b-26c2-4bbf-b4bf-3110f7909d2c"/>
+    <image src="https://github.com/alvarosoaress/Comandas/assets/13721147/04d8504e-bfed-48a3-ab57-2a412966ef4a" width=500/>
 </div>
 
 > Esse é um projeto acadêmico realizado em grupo para o Projeto do Eixo 03 PUC Minas ADS 2023.2. Não possuo total crédito sobre o projeto. [Repositório Original](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t2-g3-comandas)
@@ -70,7 +70,7 @@ Comandas
 3
 https://github.com/alvarosoaress/Comandas/blob/main/docs/12-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md
 JavaScript;ReactNative;Expo;Android;iOS
-https://github.com/alvarosoaress/Comandas/assets/13721147/51de685b-26c2-4bbf-b4bf-3110f7909d2c
+https://github.com/alvarosoaress/Comandas/assets/13721147/04d8504e-bfed-48a3-ab57-2a412966ef4a
 Solução mobile que visa simplificar e aprimorar experiência em estabelecimentos alimentícios, oferecendo como principal função a possibilidade de cardápio virtual e gerenciamento de espaço via dispositivo móvel. Com aplicativos únicos tanto para clientes quanto para estabelecimentos, com integração dos dois via API externa.
 available
 -->
