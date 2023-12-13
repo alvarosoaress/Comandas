@@ -60,7 +60,7 @@ yarn start
 
 > Saída:
 >> `QrCode Image`
-› Metro waiting on exp://192.168.2.175:8081
+› Metro waiting on exp://192.168.1.198:8080
 › Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
 
 - <kbd>3</kbd> Pronto! Agora já é possível visualizar o projeto, se quiser ver pelo mobile, basta escanear o QrCode usando o `Expo Go`, caso tenha um emulador, apenas digite <kbd>a</kbd> no terminal.
